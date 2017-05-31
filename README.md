@@ -15,5 +15,6 @@ If your system does not provide binary packages or you want to install a newer v
 
 ```python agenda.py```
 
-# great thanks to this repo
+# Credits
+Big thanks to
 https://github.com/lxml/lxml
